@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Nothing to build. Moving files to the artifact directory..."
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'src' # replace 'src' with the directory containing your website files
