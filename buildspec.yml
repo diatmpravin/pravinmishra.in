@@ -8,9 +8,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-<<<<<<< HEAD
   base-directory: 'pravinmishra.in' # replace 'src' with the directory containing your website files
-=======
-  base-directory: 'src' # replace 'src' with the directory containing your website files
-
->>>>>>> d46a13b (initial commit)
