@@ -8,4 +8,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'src' # replace 'src' with the directory containing your website files
+  base-directory: 'pravinmishra.in' # replace 'src' with the directory containing your website files
