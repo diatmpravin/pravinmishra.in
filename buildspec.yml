@@ -8,4 +8,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: '.'
+  base-directory: 'pravinmishra.in'
